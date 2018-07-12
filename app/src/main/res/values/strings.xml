@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRealmApp</string>
+    <string name="clear_all_user_data"><u>Clear all data</u></string>
+    <string name="view_due_history"><i>Due History</i></string>
+    <string name="view_payment_history"><i>View Payments</i></string>
+    <string name="check_total"><u>Check Total</u></string>
+</resources>
